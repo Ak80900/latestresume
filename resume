@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="en" style="width: 100%; height: 100%;">
+    <head>
+        <title>Amar's Resume</title>
+    </head>
+    <body>
+        <div style="width: 100%; height: 100%;">
+            <image src="https://github.com/Ak80900/resume/blob/main/cvGenerate.pdf">CV</image>
+        </div>
+    </body>
+</html>
